@@ -3,7 +3,7 @@ Steps to generate this API:
 1) install loopback: npm i -g @loopback/cli
 2) create loopback aplication: lb4 app
 3) create model: lb4 model
-4) connect to database: lb4 datasource
+4) connect to database (mongoDB): lb4 datasource
 5) create repository: lb4 repository
 6) add CRUD controller: lb4 controller
 
